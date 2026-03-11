@@ -2,7 +2,7 @@
 
 **Nothing attracts me more than things people say are “impossible.”**
 
-Today, I launched a project that I’ve been really passionate about. I call it **“An Vuong.”**
+I launched a project that I’ve been really passionate about. I call it **“An Vuong.”**
 
 ## Why "An Vuong"?
 
