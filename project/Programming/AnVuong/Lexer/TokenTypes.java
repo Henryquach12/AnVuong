@@ -1,5 +1,6 @@
 package Lexer;
 
+
 public enum TokenTypes {
     // Literals 
     NUMBER, STRING, BOOLEAN,

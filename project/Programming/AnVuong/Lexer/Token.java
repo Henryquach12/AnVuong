@@ -10,4 +10,10 @@ public class Token {
         this.text = text;
         this.line = line;
     }
+
+    @Override
+    public String toString(){
+        String output = "Loại: " + this.type + "| Chữ: " + this.text + "| Dòng: " + this.line;
+        return output;
+    } 
 }
