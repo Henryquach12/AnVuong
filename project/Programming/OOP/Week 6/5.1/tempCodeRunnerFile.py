@@ -1,0 +1,2 @@
+x =    'quachoccac'
+print (x)
