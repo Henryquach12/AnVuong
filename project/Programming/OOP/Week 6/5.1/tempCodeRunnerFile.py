@@ -1,2 +1,0 @@
-x =    'quachoccac'
-print (x)
